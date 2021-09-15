@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>ChickenCosCategories</defName>
+    <label>Chicken's Apparels</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>ChickenCos_Clothing</defName>
+    <label>Chicken's Clothings</label>
+    <parent>ChickenCosCategories</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>ChickenCos_Armor</defName>
+    <label>Chicken's Armors</label>
+    <parent>ChickenCosCategories</parent>
+  </ThingCategoryDef>
+  <!-- Hat main -->
+  <ThingCategoryDef>
+    <defName>ChickenCos_hats</defName>
+    <label>Chicken's Headgears</label>
+    <parent>Headgear</parent>
+  </ThingCategoryDef>
+</Defs>
