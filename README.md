@@ -37,7 +37,6 @@ Does not include:
 	
 	
 Credits to: 
-Jesus Christ - became sin for us
 Chicken Plucker - Chicken provider
 Shinzy - Organization
 Skullywag - This was his idea!
@@ -58,6 +57,7 @@ Disney - For not suing me yet
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
