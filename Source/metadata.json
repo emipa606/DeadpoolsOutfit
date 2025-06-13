@@ -2,5 +2,12 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    "deadpool",
+    " superhero",
+    " costume"
+  ],
+  "LastXmlCleaning": "2025-06-13T22:05:33.4102957+02:00"
 }

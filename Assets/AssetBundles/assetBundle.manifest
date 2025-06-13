@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 1936917695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3601a293471df7ac1478357dff1f4e36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3601a293471df7ac1478357dff1f4e36
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPHelm_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Fat_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Fat_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Fat_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Male_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPHelm_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Fat_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Hulk_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPMask_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Thin_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Item/Equipment/Weapons/DPKatana.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Female_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Male_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Female_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Fat_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Thin_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPBatMask_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Thin_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPMask_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Male_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Thin_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPMask_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Hulk_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Fat_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Thin_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Female_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Female_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Male_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Hulk_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPHelm.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPBatMask.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Hulk_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Thin_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Thin_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPHelm_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Female_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Male_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Male_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Thin_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Hulk_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPMask.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Item/Equipment/Weapons/DPDualKatana.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Male_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Female_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Hulk_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Hulk_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Female_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Hulk_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Male_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Male_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Hulk_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPBatMask_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Fat_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPCape_Fat_south.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Female_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Female_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPBatMask_north.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPool_Thin_east.png
+- Assets/Data/Mlie.DeadpoolsOutfit/Textures/Things/Apparel/DPVest_Fat_south.png
+Dependencies: []

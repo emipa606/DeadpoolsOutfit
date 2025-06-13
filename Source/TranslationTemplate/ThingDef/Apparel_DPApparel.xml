@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Deadpool Bat cape -->
+  <Apparel_DPBatCape.label>Deadpool Bat cape</Apparel_DPBatCape.label>
+  <!-- EN: Custom made cape for the merc with a mouth, has the Deadpool logo so that Bruce Wayn- I mean Batman does not sue him for copyright. -->
+  <Apparel_DPBatCape.description>Custom made cape for the merc with a mouth, has the Deadpool logo so that Bruce Wayn- I mean Batman does not sue him for copyright.</Apparel_DPBatCape.description>
+  <!-- EN: Deadpool costume -->
+  <Apparel_DPool.label>Deadpool costume</Apparel_DPool.label>
+  <!-- EN: Outfit worn by the Merc with the mouth, known to break fourth walls and jump between worlds. Tuesday is Chimichanga day. -->
+  <Apparel_DPool.description>Outfit worn by the Merc with the mouth, known to break fourth walls and jump between worlds. Tuesday is Chimichanga day.</Apparel_DPool.description>
+  <!-- EN: Deadpool Bat helmet -->
+  <Apparel_DPoolBatHelm.label>Deadpool Bat helmet</Apparel_DPoolBatHelm.label>
+  <!-- EN: Upgraded headgear of the merc with a mouth, stolen from a DC Comics, the legendary Batman Cowl. This helmet protects your noggin from bullets because you can't have regenerating powers in Rimworld. -->
+  <Apparel_DPoolBatHelm.description>Upgraded headgear of the merc with a mouth, stolen from a DC Comics, the legendary Batman Cowl. This helmet protects your noggin from bullets because you can't have regenerating powers in Rimworld.</Apparel_DPoolBatHelm.description>
+  <!-- EN: Deadpool Chicken helmet -->
+  <Apparel_DPoolHelm.label>Deadpool Chicken helmet</Apparel_DPoolHelm.label>
+  <!-- EN: Upgraded headgear of the merc with a mouth, stolen from a Metal Gear game, the legendary chicken hat. This helmet protects your noggin from bullets because you can't have regenerating powers in Rimworld. -->
+  <Apparel_DPoolHelm.description>Upgraded headgear of the merc with a mouth, stolen from a Metal Gear game, the legendary chicken hat. This helmet protects your noggin from bullets because you can't have regenerating powers in Rimworld.</Apparel_DPoolHelm.description>
+  <!-- EN: Deadpool mask -->
+  <Apparel_DPoolMask.label>Deadpool mask</Apparel_DPoolMask.label>
+  <!-- EN: A mask you can barely see through or breath through, you look just like Deadpool without all the cancer. Goodluck eating with this on. -->
+  <Apparel_DPoolMask.description>A mask you can barely see through or breath through, you look just like Deadpool without all the cancer. Goodluck eating with this on.</Apparel_DPoolMask.description>
+  <!-- EN: Deadpool armor vest -->
+  <Apparel_DPVest.label>Deadpool armor vest</Apparel_DPVest.label>
+  <!-- EN: Custom made vest plate equipped with a Chimichanga and a Rubber Chicken. -->
+  <Apparel_DPVest.description>Custom made vest plate equipped with a Chimichanga and a Rubber Chicken.</Apparel_DPVest.description>
+</LanguageData>
